@@ -60,6 +60,7 @@
 - ROUGE: A Package for Automatic Evaluation of Summaries, Lin (2004)  https://aclanthology.org/W04-1013.pdf
 - Energy and Policy Considerations for Deep Learning in NLP, Strubell et al. (2019) https://arxiv.org/pdf/1906.02243.pdf
 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size, Iandola et al. (2016) https://arxiv.org/abs/1602.07360
+- Non-deep Networks, Ankit Goyal et al. (2021) https://arxiv.org/abs/2110.07641
 
 
 **Links**
@@ -94,6 +95,7 @@
   - Subreddit machine learning https://www.reddit.com/r/MachineLearning/
 - Mila machine learning and dedicated to scientific excellence and innovation https://mila.quebec/en/
 - Introduction to Neural Computation (Bullinaria) https://www.cs.bham.ac.uk/~jxb/inc.html
+- SaLinA: SaLinA - A Flexible and Simple Library for Learning Sequential Agents (including Reinforcement Learning) https://github.com/facebookresearch/salina
 
 **Workshops**
 - Data Centric AI Competition https://https-deeplearning-ai.github.io/data-centric-comp/
