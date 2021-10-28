@@ -73,7 +73,8 @@
 - [MSFT] Library for small energy models https://github.com/microsoft/EdgeML
 - [Bias/Variance] https://cv-tricks.com/machine-learning/bias-variance-trade-off/
 - Introduction to Learning to Trade with Reinforcement Learning http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/
-- Small dataset repository https://archive.ics.uci.edu/ml/index.php- Papers with code https://paperswithcode.com/
+- Small dataset repository https://archive.ics.uci.edu/ml/index.php
+- Papers with code https://paperswithcode.com/
 - Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients  http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/
 - Online Seminar on Mathematical Foundations of Data Science https://sites.google.com/view/seminarmathdatascience/home
 - A Universal Law of Robustness https://www.youtube.com/watch?v=OzGguadEHOU
